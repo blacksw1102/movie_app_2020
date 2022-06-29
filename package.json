@@ -7,6 +7,7 @@
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.27.2",
+    "gh-pages": "^4.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -37,5 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/blacksw1102/movie_app_2020"
+  "homepage": "https://blacksw1102.github.com/movie_app_2020"
 }
